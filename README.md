@@ -19,3 +19,9 @@ In this way, quizzes are an engaging method for companies and schools to measure
 2. During one game the same question must not be chosen more than once (even for different users taking part in the game)
 
 3. Display Correct Answer After The Quiz - After the time of the answer ends, the correct answer to the question asked should be displayed to let the user know whether he answered    correctly or not.
+
+
+![output-onlinepngtools](https://user-images.githubusercontent.com/80740455/114267890-047d1480-9a1c-11eb-97d0-0f73c4025c72.png)
+
+
+
