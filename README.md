@@ -1,30 +1,10 @@
-# ONLINE-QUIZ-MASTER-GAME
+# Please Fork or Star the repo before cloning to your local system
 
-Companies and education usually want to test a specific area of knowledge rather than general knowledge. 
+# Quiz-App
+A quiz app created with GUI in python using tkinter.
 
-In this way, quizzes are an engaging method for companies and schools to measure growth in knowledge, abilities, and/or skills.
+`This quiz app contains question about the programming language Python and has three level of hardness i.e. Easy, Medium and Hard.`
 
-▸ Typically, a quiz is a short test and doesn’t have as great an impact on grades as a test. 
-
-
-
-
-
-
-#SHORT INFO ABOUT OUR ONLINE QUIZ MASTER  GAME---------------------------------------------------------------------------------------------
-
-
-1. Each player has a difficulty level and one or more categories assigned and therefore he/she will only get questions, which are equal or below his/her difficulty level and are      within the assigned categories.
-
-2. During one game the same question must not be chosen more than once (even for different users taking part in the game)
-
-3. Display Correct Answer After The Quiz - After the time of the answer ends, the correct answer to the question asked should be displayed to let the user know whether he answered    correctly or not.
-
-
-![output-onlinepngtools](https://user-images.githubusercontent.com/80740455/114267890-047d1480-9a1c-11eb-97d0-0f73c4025c72.png)
-![Sign Up](https://user-images.githubusercontent.com/80740455/114268070-d5b36e00-9a1c-11eb-93c9-4af3c5b7ab20.PNG)
-![Welcome Page](https://user-images.githubusercontent.com/80740455/114268072-d77d3180-9a1c-11eb-8447-3b31209e6ca7.PNG)
-
-
-
-
+# How to Run.
+Download all the files in the same folder.
+Then run the quiz.py file.
