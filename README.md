@@ -16,7 +16,7 @@ In this way, quizzes are an engaging method for companies and schools to measure
 3. Display Correct Answer After The Quiz - After the time of the answer ends, the correct answer to the question asked should be displayed to let the user know whether he answered correctly or not.
 
 
-**** GAME VIDEO DEMO:-----------------------------------------****
+**** GAME VIDEO DEMO:------------------------------------------------------------------------------------------------****
 
 https://user-images.githubusercontent.com/80740455/114409903-8b6ef000-9bc8-11eb-8100-ba9cfba63cf8.mp4
 
